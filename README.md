@@ -1,6 +1,8 @@
 # TicTacToe-AI
 An implementation of **Minimax AI Algorithm** configured with **alpha beta pruning** on Tic-Tac-Toe (Noughts and Crosses) game.
+
 <p align = "center"><img align = "center" src = "images/tictac.png" /></p>
+
  
 
 ## Table of Contents
@@ -21,4 +23,4 @@ Alpha-Beta pruning is not actually a new algorithm, rather an optimization techn
 **Alpha** is the best value that the maximizer currently can guarantee at that level or above.  
 **Beta** is the best value that the minimizer currently can guarantee at that level or above.  
 
-<p align = "center"><img align = "center" src = "images/alphabeta.jpg" /></p>
+<p align = "center"><img align = "center" src = "images/ab.png" /></p>
