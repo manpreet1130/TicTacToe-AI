@@ -1,6 +1,6 @@
 # TicTacToe-AI
 An implementation of **Minimax AI Algorithm** configured with **alpha beta pruning** on Tic-Tac-Toe (Noughts and Crosses) game.
-<p align = "center"><img align = "center" src = "images/tictactoe.png" width = 400 height = 350/></p>
+<p align = "center"><img align = "center" src = "images/tictac.png" /></p>
  
 
 ## Table of Contents
