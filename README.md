@@ -23,4 +23,4 @@ Alpha-Beta pruning is not actually a new algorithm, rather an optimization techn
 **Alpha** is the best value that the maximizer currently can guarantee at that level or above.  
 **Beta** is the best value that the minimizer currently can guarantee at that level or above.  
 
-<p align = "center"><img align = "center" src = "images/ab.png" /></p>
+<p align = "center"><img align = "center" src = "images/alphabeta.png" /></p>
